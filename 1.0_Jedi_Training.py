@@ -1,21 +1,19 @@
-'''
-Sign your name:________________
+"""
+Sign your name: Rachel Linthicum
 
+Define Forking: copying an assignment to your account
 
+Define Cloning: copying the page of code
 
-Define Forking: 
+Define Branching: having multiple sets of the same page with different coding words
 
-Define Cloning: 
+Define Committing: “saving” your work
 
-Define Branching:
+Define Merging: combining 2+ branches of code into one
 
-Define Committing: 
+Define Pushing: exporting the page of code to another page
 
-Define Merging: 
+Define Pull Request: request telling a person that someone has pushed their page of code
 
-Define Pushing:
-
-Define Pull Request:
-
-
-'''
+All done
+"""
